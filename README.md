@@ -2,7 +2,7 @@
 
 **A unified, browser-based gm/ID characterisation portal for three open-source PDKs.**
 
-🔗 **Live site:** https://chennakeshavadasa.github.io/gmid-hub/
+**Live site:** https://chennakeshavadasa.github.io/gmid-hub/
 
 ---
 
