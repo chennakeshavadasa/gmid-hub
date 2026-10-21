@@ -2,7 +2,7 @@
 
 **A unified, browser-based gm/ID characterisation portal for three open-source PDKs.**
 
-**Live site:** https://chennakeshavadasa.github.io/gmid-hub/
+**Live site:** https://nithinpuru.github.io/gmid/
 
 ---
 
@@ -168,9 +168,9 @@ W = gm / (gm/ID × ID/W)             (device sizing from LUT)
 Analog Design Engineer · IHP SG13G2, SKY130A, GF180MCU-D open-source PDK tools
 
 - GitHub: [@chennakeshavadasa](https://github.com/chennakeshavadasa)
-- IHP tool: https://chennakeshavadasa.github.io/gmid_IHP130_Tool/
-- SKY130A tool: https://chennakeshavadasa.github.io/gmid_SKY130A/
-- GF180MCU-D tool: https://chennakeshavadasa.github.io/gmid_GF180MCUD/
+- IHP tool: https://nithinpuru.github.io/gmid/ihp-sg13g2/
+- SKY130A tool: https://nithinpuru.github.io/gmid/sky130a/
+- GF180MCU-D tool: https://nithinpuru.github.io/gmid/gf180mcu-d/
 
 ---
 
